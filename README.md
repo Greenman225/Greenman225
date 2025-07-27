@@ -78,6 +78,7 @@ I enjoy building UIs that **solve real problems** — my favorite project so far
 
 ![DedSec_Gh05t WhatsApp QR Code](https://github.com/MichaelAnarfo/MichaelAnarfo/assets/your-uploaded-image-id)
 
+
 > `Ded5ec_Gh05t` – Verified WhatsApp Business
 
 ---
