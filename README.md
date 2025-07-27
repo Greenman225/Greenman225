@@ -1,3 +1,5 @@
+![WhatsApp Image](https://github.com/user-attachments/assets/39309915-2150-44bf-ba73-0bbb2c8c5236)
+
 # 💫 About Me:
 👋 Hi, I’m **Michael Anarfo**, a passionate and driven IT student at the **University of Ghana**.  
 🔧 I specialize in **software development**, **web technologies**, **cybersecurity**, and **database systems**.
@@ -56,30 +58,22 @@ I enjoy building UIs that **solve real problems** — my favorite project so far
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MichaelAnarfo&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAnarfo&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greenman225&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greenman225&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MichaelAnarfo&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=greenman225&theme=radical)
 
 ---
 
 ## ✍️ Dev Quote of the Day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
 ## 📫 Let's Connect:
 📧 michaelanarfo@st.ug.edu.gh  
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-anarfo-08a1a8355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📱 WhatsApp Business Account – Scan below to chat with me:
-
-![DedSec_Gh05t WhatsApp QR Code](https://github.com/MichaelAnarfo/MichaelAnarfo/assets/your-uploaded-image-id)
-
-
-> `Ded5ec_Gh05t` – Verified WhatsApp Business
-
----
-
+📱 WhatsApp Business: [Scan QR](https://wa.me/qr/Y7TBO5A7ZKPKB1) (Ded5ec_Gh05t)
