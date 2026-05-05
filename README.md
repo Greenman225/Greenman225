@@ -4,8 +4,6 @@
 👋 Hi, I’m **Michael Anarfo**, a passionate and driven IT student at the **University of Ghana**.  
 🔧 I specialize in **software development**, **web technologies**, **cybersecurity**, and **database systems**.
 
-💡 I'm the frontend lead of Team **Codebility**, creators of the **Automated Hall Complaint Management System (ACMS)** for **Akuafo Hall**, University of Ghana.
-
 ---
 
 ## 🤝 Looking to Collaborate On:
@@ -13,19 +11,6 @@
 - Full-stack solutions involving REST APIs  
 - Community or campus-based IT solutions
 
----
-
-## 📚 Currently Learning:
-- **DevOps** (CI/CD, GitHub Actions)  
-- **Scrum & Agile software practices**  
-- **Advanced React patterns and state management**
-
----
-
-## ❓ Ask Me About:
-- Our DCIT 208 project: how we applied real software engineering principles to build a hall complaint management system  
-- Web development best practices  
-- Collaborative tools like Figma, GitHub Projects, and Notion
 
 ---
 
